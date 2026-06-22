@@ -1,4 +1,9 @@
 body {
     margin: 0px;
-    background-color: rgb(14, 14, 14);
+    background-color: rgb(255, 255, 255);
+}
+
+.image {
+    width: 95%;
+    border-radius: 5px;
 }
