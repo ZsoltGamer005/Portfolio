@@ -2,33 +2,3 @@ body {
     margin: 0px;
     background-color: rgb(14, 14, 14);
 }
-
-.card {
-    width: 30vw;
-    margin: 25px;
-    border: solid black 3px;
-    padding: 8px;
-    background-color: rgb(102, 105, 158);
-    border-radius: 8px;
-    box-shadow: 3px 8px 10px black;
-    display: inline-block;
-    transform: scale(1);
-    transition: .2s;
-}
-
-.card:hover {
-    width: 30vw;
-    margin: 25px;
-    border: solid black 3px;
-    padding: 8px;
-    background-color: rgb(116, 118, 173);
-    border-radius: 8px;
-    box-shadow: 13px 17px 25px rgb(10, 10, 10);
-    display: inline-block;
-    transform: scale(1.06);
-    transition: .2s;
-}
-
-.card-p {
-    text-align: center;
-}
